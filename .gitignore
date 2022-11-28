@@ -1,2 +1,5 @@
 //Do not commit .venv files
 .venv
+
+// IDEA Files
+.idea
