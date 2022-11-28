@@ -1,7 +1,7 @@
 import cv2
 from keras.models import load_model
 from keras.applications import imagenet_utils
-from keras.preprocessing.image import img_to_array
+from keras.utils.image_utils import img_to_array
 from sklearn.preprocessing import LabelEncoder
 import numpy as np
 import time
